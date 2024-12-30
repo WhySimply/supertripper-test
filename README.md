@@ -12,11 +12,11 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
 1. Clonez le dépôt du projet :
    ```bash
-   git clone <url-du-repo>
+   git clone git@github.com:WhySimply/supertripper-test.git
    ```
 2. Naviguez dans le dossier du projet :
    ```bash
-   cd <nom-du-repertoire>
+   cd supertripper-test
    ```
 3. Installez les dépendances :
    ```bash
